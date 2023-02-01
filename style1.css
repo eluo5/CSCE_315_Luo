@@ -1,0 +1,183 @@
+#facebook{
+    height: 30px;
+    width: 30px;
+    background-image: url("data:image/png;base64,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");
+    background-position: center;
+    background-size: 40px 30px;
+    border-radius: 5px;
+    border-color: maroon;
+    border-style: solid;
+}
+#instagram{
+    height: 30px;
+    width: 30px;
+    background-image: url("https://www.pngitem.com/pimgs/m/510-5101812_transparent-square-clip-art-logo-instagram-hd-png.png");
+    background-position: center;
+    background-size: contain;
+    border-radius: 5px;
+    border-color: maroon;
+    border-style: solid;
+}
+#linkedin{
+    height: 30px;
+    width: 30px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAY1BMVEUAd7f///8AcbQAbLIAb7Pp9PkAdbabvdq20eXl7/ZAjMEAc7U+hb3w9vmpyOHu8/grf7sAabHP4O3X5fBjnMkwh79WlsaIsNPD2Oluo81qm8hdk8ShxN6BsNSOtdZOjsJ5qdDNqqL8AAADoklEQVR4nO2bW5uiMAyGoY0FrDIUEPGA+P9/5aIzDAIpRWZId/fpdzE3RfJOQ9OkB8//VBbkB49MhzzIvgx7z79pwUAKOgAhgRVpBxAAozPeikHQAhwVvfmH1PETILBkvyEIHgAp2LLveZA2AIUF/7dihe9lFu03BJkXWPRA44PAy6VNAJl7B8L4M5YgDL//nAQozhhXYMdFku2qMmqU3raSfqAKXpf+t9KcE9uXPPR7KhnpWJVJ5A/0URO6QSbZ0D4tAUvH9n0/IrPPA8y+74dEWYPwcPu+v6UJCKDpgKYLaKZNGI2Ab5HYFwetfT+nGAjsrge4UvgArnoAko8AYj1ASeGCSQCSHrjpAWIKAFnoASoKACH0AAeSORlKnf2IZj6UZx3AkWhCVkg28NCGKi+T9R4FIAnET/EKs38lTEwxAkr7zUg4Db1QEZcnsOsNxrQmL+ElL+K2F8IcbFTwkqskP93PieLW6nchGaNcvfz/9JPOe++3/acbz4FSnAMAVwqYeB9EKC/pi7+OA5CDVq+LEkJycamuabR5DKJ9lF6rWvI3R5FMyo+B0m33DjhGw+b4qxMEiDwcFhb7KK7fWuMQHjIfbpK2GU3cy2ekluyumUrT4o3BzE7YK25tMGSojQcfrzXmn4jJ7GiKV4dhOxuxDda8lYJP5LON9qe589lCADaR0H/qNpNgGYCaKKlaneZ5YRFAMt3/X5q3M7AIYKKmfdE+mRMRFgHgeeRIs6q7RQBzdZrRBasCZDOWulYF8M/mLlgXYMZXsC7AjKWulQGOxi5YGcDsg5UBuol9FYC0Ol8u56qcCEyFaRz8ACDcKZBSClCJfm40fgTLAQrVpT1KU+W/vOnXAfoVJKs1j0VrAQzzDThqAExJ/0KAbPSPKdwJ+906AJfRx800XTB+8jcA0vFbRYJ3gWk+WgaALaNqFtxMOcEygARxLMeDwd2QGS4CQA+C4CVOV+P8JgC6mSEvKIDp0MgiADS+CjwWmbZ+FgGg66hihw6DVQC22Jf9twLEhsnAATgAB+AAHIADcAAOwAE4AAfgAByAA3AA1gEYep7OsHuOL36Oj+k/ZFojEh5yuj3qzg9gS1+aFXD0gOiHccdCJHE0UPiy5wr3bNgcaM6JCFYNH41K1FsDcSZ6Yr3zDwz6rQL0J82AD56de6Ck/6vp1unF73eetSPrV72sX3azft3P+oVH61c+7V96tX7t1/7FZ/tXv+1ffvctXv//A/jiRskUUNZEAAAAAElFTkSuQmCC");
+    background-position: center;
+    background-size: contain;
+    border-radius: 5px;
+    border-color: maroon;
+    border-style: solid;
+}
+
+#github{
+    height: 30px;
+    width: 30px;
+    background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
+    background-position: center;
+    background-size: contain;
+    border-radius: 5px;
+    border-color: maroon;
+    border-style: solid;
+}
+
+#gmail{
+    height: 30px;
+    width: 30px;
+    background-image: url("https://thumbs.dreamstime.com/b/print-199901760.jpg");
+    background-position: center;
+    background-size: contain;
+    border-radius: 5px;
+    border-color: maroon;
+    border-style: solid;
+}
+div.title {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+    color: maroon;
+    font-weight: bold;
+    font-size: x-large;
+}
+div.subtitle {
+    margin: auto;
+    width: 75%;
+    text-align: center;
+    color: maroon;
+    font-weight: bold;
+}
+div.btn-group{
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    word-spacing: 7px;
+    text-align: center;
+}
+div.description{
+    border-color: maroon;
+    border-style: dashed;
+    background-color: rgba(128, 0, 0, 0.164);
+    border-radius: 6px;
+    margin: 0;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(50, 2, 50);
+    height: 8.3%;
+    z-index: 10;
+}
+body{
+    margin: 0;
+    background-color: rgba(208, 192, 255, 0.783);
+    z-index: 100;
+}
+button{
+    width: 1.4in;
+    background-color: rgba(128, 0, 0, 0.479);
+    border-color: maroon;
+    border-radius: 5px;
+    border-style: solid;
+    position: relative;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgba(208, 192, 255, 0.783);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(31, 0, 31);
+}
+  
+/* Control the left side */
+.left {
+    height: 90%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    overflow-x: hidden;
+    padding-top: 10;
+    left: 0;
+    background-color: rgba(208, 192, 255, 0.783);
+}
+/* Control the right side */
+.right {
+    height: 90%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding-top: 10;
+    right: 0;
+    background-blend-mode: saturation;
+    background-size: cover;
+    background: 
+        radial-gradient(circle, transparent 50%, var(--color-v) 90%),
+        var(--image2);
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: 
+        var(--blend-top, normal),
+        var(--blend-bottom, saturation),
+        normal;
+    
+    --image: url(https://images.unsplash.com/photo-1519522800923-7999b95cb3c6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=81c09a0eae279992234d18e52c8857fa);
+    --image2: url("IMG_4871.jpg");
+    
+    --color-v: rgba(208, 192, 255, 0.783);
+}
+
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 75%;
+}
+
+.mid {
+    position: absolute;
+    top: 10%;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: maroon;
+}
