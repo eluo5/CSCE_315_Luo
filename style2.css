@@ -61,7 +61,7 @@ div.description {
     font-family: Verdana, Geneva, sans-serif;
 }
 
-div.p13 {
+div.part1of3 {
     top: 120%;
     width: 29%;
     height: 200%;
@@ -75,7 +75,7 @@ div.p13 {
     padding: 1%;
 }
 
-div.p23 {
+div.part2of3 {
     top: 120%;
     width: 29%;
     height: 200%;
@@ -89,7 +89,7 @@ div.p23 {
     padding: 1%;
 }
 
-div.p33 {
+div.part3of3 {
     top: 120%;
     width: 29%;
     height: 200%;
@@ -110,7 +110,7 @@ div.resume {
     font-family: Verdana, Geneva, sans-serif;
 }
 
-div.p14 {
+div.part1of4 {
     top: 160%;
     width: 20%;
     height: 520%;
@@ -124,7 +124,7 @@ div.p14 {
     padding: 1%;
 }
 
-div.p24 {
+div.part2of4 {
     top: 160%;
     width: 20%;
     height: 520%;
@@ -138,7 +138,7 @@ div.p24 {
     padding: 1%;
 }
 
-div.p34 {
+div.part3of4 {
     top: 160%;
     width: 20%;
     height: 520%;
@@ -152,7 +152,7 @@ div.p34 {
     padding: 1%;
 }
 
-div.p44 {
+div.part4of4 {
     top: 160%;
     width: 20%;
     height: 520%;
@@ -166,7 +166,7 @@ div.p44 {
     padding: 1%;
 }
 
-div.p12 {
+div.part1of2 {
     top: 120%;
     width: 42.5%;
     height: 380%;
@@ -180,7 +180,7 @@ div.p12 {
     padding: 1%;
 }
 
-div.p22 {
+div.part2of2 {
     top: 120%;
     width: 42.5%;
     height: 380%;
@@ -350,7 +350,7 @@ ri a:hover {
     font-family: Verdana, Geneva, sans-serif;
 }
 
-.mid {
+.centertext {
     position: absolute;
     top: 0;
     text-align: left;

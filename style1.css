@@ -207,7 +207,7 @@ ri a:hover {
     width: 75%;
 }
 
-.mid {
+.centertext {
     position: absolute;
     top: 10%;
     text-align: left;
@@ -246,63 +246,63 @@ div.gal {
     width: 50%;
 }
 
-div.p13 {
+div.part1of3 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p23 {
+div.part2of3 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p33 {
+div.part3of3 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p14 {
+div.part1of4 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p24 {
+div.part2of4 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p34 {
+div.part3of4 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p44 {
+div.part4of4 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p12 {
+div.part1of2 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
     padding: 1%;
 }
 
-div.p22 {
+div.part2of2 {
     background-color: rgba(128, 0, 0, 0.2);
     border-style: dotted;
     border-color: maroon;
